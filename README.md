@@ -1,6 +1,6 @@
 👋 Hey, I'm Rohith
 
-Frontend Developer | React | UI/UX | Open-Source Contributor
+Software and mobile application Developer | React | Flutter | UI/UX | Open-Source Contributor
 Currently preparing for Google Summer of Code 2026.
 Focused on building clean, fast, and accessible web interfaces.
 
@@ -14,6 +14,8 @@ Improving performance & responsive UI design
 
 Building real-world projects to strengthen my portfolio
 
+Building real time mobile applications 
+
 💡 Interests
 
 UI/UX design & smooth user experiences
@@ -22,13 +24,15 @@ Web accessibility & mobile-first layouts
 
 Frontend tooling (Vite, Webpack)
 
+Flutter mobile applications (Dart)
+
 Open-source communities
 
 React-based editors, dashboards, and design tools
 
 🛠️ Tech Stack
 
-Frontend: HTML, CSS, JavaScript, React
+Skills: React , Flutter , SQL , MongoDB , Firebase , Python , MERN 
 Styling: Tailwind CSS, Bootstrap
 Tools: Git, GitHub, VS Code
 Learning: TypeScript, testing (Jest), frontend architecture
