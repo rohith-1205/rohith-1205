@@ -1,7 +1,6 @@
 👋 Hey, I'm Rohith
 
 Software and mobile application Developer | React | Flutter | UI/UX | Open-Source Contributor
-Currently preparing for Google Summer of Code 2026.
 Focused on building clean, fast, and accessible web interfaces.
 
 🚀 What I’m Working On
@@ -43,7 +42,6 @@ Make meaningful contributions to at least 2 open-source organisations
 
 Build + publish React components
 
-Submit a strong GSoC 2026 proposal
 
 Improve problem-solving, testing & documentation skills
 
