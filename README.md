@@ -1,6 +1,6 @@
 👋 Hey, I'm Rohith
 
-Software and mobile application Developer | React | Flutter | UI/UX | Open-Source Contributor
+Software and mobile application Developer | React | Flutter | MERN | n8n | Figma | Firebase | Python | ML 
 Focused on building clean, fast, and accessible web interfaces.
 
 🚀 What I’m Working On
@@ -31,7 +31,7 @@ React-based editors, dashboards, and design tools
 
 🛠️ Tech Stack
 
-Skills: React , Flutter , SQL , MongoDB , Firebase , Python , MERN 
+Skills: React , Flutter , SQL , MongoDB , Firebase , Python , MERN , n8n
 Styling: Tailwind CSS, Bootstrap
 Tools: Git, GitHub, VS Code
 Learning: TypeScript, testing (Jest), frontend architecture
